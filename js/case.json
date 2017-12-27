@@ -1,0 +1,97 @@
+{
+"batchcomplete":"",
+"continue":{
+"gsroffset":10,
+"continue":"gsroffset||"
+},
+"query":{
+"pages":{
+"5102454":{
+"pageid":5102454,
+"ns":0,
+"title":"Akimitsu Takagi",
+"index":8,
+"extract":"Akimitsu Takagi (\u9ad8\u6728 \u5f6c\u5149, Takagi Akimitsu, 25 September 1920\u20139 September 1995), was the pen-name of a popular Japanese crime fiction writer active during the Showa period of Japan."
+},
+"11353140":{
+"pageid":11353140,
+"ns":0,
+"title":"Bleach (season 1)",
+"index":7,
+"thumbnail":{
+"source":"https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Bleach_01_-_The_Substitute.jpg/35px-Bleach_01_-_The_Substitute.jpg",
+"width":35,
+"height":50
+},
+"pageimage":"Bleach_01_-_The_Substitute.jpg",
+"extract":"The Agent of the Shinigami arc (\u6b7b\u795e\u4ee3\u884c\u7bc7, Shinigami Daik\u014d Hen) is the first season of the Bleach anime series."
+},
+"19565323":{
+"pageid":19565323,
+"ns":0,
+"title":"Bleach (season 10)",
+"index":5,
+"extract":"The tenth season of the Bleach anime series, released on DVD as the Arrancar vs."
+},
+"33125777":{
+"pageid":33125777,
+"ns":0,
+"title":"Bleach (season 16)",
+"index":3,
+"extract":"The sixteenth season of the Bleach anime series is known as the Lost Agent arc (\u6b7b\u795e\u4ee3\u884c\u6d88\u5931\u7bc7, Shinigami Daik\u014d Sh\u014dshitsu hen)."
+},
+"49317501":{
+"pageid":49317501,
+"ns":0,
+"title":"Death's End",
+"index":9,
+"extract":"Death's End (Chinese: \u6b7b\u795e\u6c38\u751f) is a science fiction novel by the Chinese writer Liu Cixin."
+},
+"27149269":{
+"pageid":27149269,
+"ns":0,
+"title":"Gloomy Salad Days",
+"index":6,
+"thumbnail":{
+"source":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gloomysaladdays.jpg/50px-Gloomysaladdays.jpg",
+"width":50,
+"height":33
+},
+"pageimage":"Gloomysaladdays.jpg",
+"extract":"Gloomy Salad Days (\u6b7b\u795e\u5c11\u5973; pinyin: Si3 Shen2 Shao4 Nv3) is a 2010 Taiwanese television series starring Aaron Yan and Serena Fang."
+},
+"42703090":{
+"pageid":42703090,
+"ns":0,
+"title":"Remembrance of Earth's Past",
+"index":10,
+"extract":"Remembrance of Earth's Past (Chinese: \u5730\u7403\u5f80\u4e8b) is a science fiction trilogy by the Chinese writer Liu Cixin, but Chinese readers generally refer to the series by the title of its first novel, The Three Body Problem (Chinese: \u4e09\u4f53; literally: \"Three-Body\")."
+},
+"1315949":{
+"pageid":1315949,
+"ns":0,
+"title":"Shinigami",
+"index":1,
+"extract":"Shinigami (\u6b7b\u795e, \"god of death\" or \"death spirit\") are gods or supernatural spirits that invite humans toward death, and can be seen to be present or interpreted to be present in certain aspects of Japanese religion and culture."
+},
+"47135176":{
+"pageid":47135176,
+"ns":0,
+"title":"Shinigami-kun",
+"index":2,
+"extract":"Shinigami-kun (\u6b7b\u795e\u304f\u3093) is a Japanese television drama series based on the manga of the same name by Koichi Endo."
+},
+"35293596":{
+"pageid":35293596,
+"ns":0,
+"title":"So, I Can't Play H!",
+"index":4,
+"extract":"So, I Can't Play H!"
+}
+}
+},
+"limits":{
+"pageimages":50,
+"extracts":20
+}
+}
